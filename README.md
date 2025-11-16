@@ -1,0 +1,1 @@
+https://sqlassitant.streamlit.app/
